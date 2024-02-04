@@ -1,6 +1,8 @@
 # Stockholm airbnb
 
-The provided code in Python represents analysis process for the dataset downloaded from Inside Airbnb, with listings corresponding to June, 2023. The sourse code could be found here: http://insideairbnb.com/get-the-data/
+The provided code in Python represents analysis process for the dataset downloaded from Inside Airbnb, with listings corresponding to 31 March, 2023. The sourse code could be found here: http://insideairbnb.com/get-the-data/
+
+![image](https://github.com/AnaSmola/Airbnb_Stockholm/assets/94449616/78621365-98c9-4fd9-b443-b1769d3cceb1)
 
 The code includes:
 
