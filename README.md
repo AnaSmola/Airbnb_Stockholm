@@ -4,7 +4,7 @@ The provided code in Python represents analysis process for the dataset download
 
 The code includes:
 
-1.Checking Statistics of Numerical Data
+1. Checking Statistics of Numerical Data
 2. Analyzing Categorical Data
 3. Imputing Missing Values
 4. Visualization
