@@ -6,6 +6,9 @@ The code includes:
 
 1. Checking Statistics of Numerical Data
 2. Analyzing Categorical Data
-3. Imputing Missing Values
-4. Visualization
-5. Correlation of Attributes
+3. Data Cleaning
+4. Imputing Missing Values
+5. Visualization
+6. Correlation of Attributes
+
+The code gives an experience in working with a real-world dataset. It covers fundamental data analysis tasks, allowing beginners to practice coding skills and apply theoretical knowledge in a practical setting.
